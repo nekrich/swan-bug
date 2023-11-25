@@ -8,7 +8,7 @@
 import Cocoa
 
 class ViewController: NSViewController {
-//  let label: NSTextField = NSTextField.label()
+  let label: NSTextField = NSTextField.label()
 
   override func viewDidLoad() {
     super.viewDidLoad()
